@@ -5,6 +5,7 @@ using std::endl;
 
 int main()
 {
+	//注释
 	cout << "----" <<endl;
 	cout 《》《》
 	return 0;
